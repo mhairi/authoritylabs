@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: authoritylabs\nType: Package\nTitle: What the Package Does (Title Case)\nVersion: 0.1.0\nAuthor: Who wrote it\nMaintainer: The package maintainer <yourself@somewhere.net>\nDescription: More about what it does (maybe more than one line)\n    Use four spaces when indenting paragraphs within the Description.\nLicense: What license is it under?\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 5.0.1\n",
+    "created" : 1474224524789.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4112201381",
+    "id" : "3F3570C1",
+    "lastKnownWriteTime" : 1473774041,
+    "last_content_update" : 1473774041,
+    "path" : "~/Documents/APIs/authoritylabs/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
